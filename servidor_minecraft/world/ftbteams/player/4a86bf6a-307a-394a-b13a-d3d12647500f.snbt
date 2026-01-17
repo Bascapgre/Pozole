@@ -1,0 +1,17 @@
+{
+	id: "4a86bf6a-307a-394a-b13a-d3d12647500f"
+	type: "player"
+	player_name: "SniperSky"
+	ranks: {
+		4a86bf6a-307a-394a-b13a-d3d12647500f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SniperSky"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
